@@ -1,0 +1,5 @@
+favorit fil: Mirrow;
+favorit serial: Friends;
+favorit food: Burger;
+favorit season: Summer;
+country to go: India;
